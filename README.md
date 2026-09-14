@@ -34,6 +34,4 @@ A SwiftUI app that lets you roll one or more virtual dice with a tap. Add or rem
 - SwiftUI
 - `@State` for reactive UI updates
 
-## License
 
-MIT
